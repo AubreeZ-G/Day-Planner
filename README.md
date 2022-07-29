@@ -1,2 +1,4 @@
-# Homework-3-26
-A calendar with todays date and business hours
+
+
+A simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. This app uses Moment.js.
+
